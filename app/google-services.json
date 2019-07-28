@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342870705804",
+    "firebase_url": "https://photosharing-60408.firebaseio.com",
+    "project_id": "photosharing-60408",
+    "storage_bucket": "photosharing-60408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342870705804:android:eb9ec116860c31d4",
+        "android_client_info": {
+          "package_name": "com.example.photosharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342870705804-8dni4kf82v0bpt3rj937enc4ebjno7e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.photosharing",
+            "certificate_hash": "01e8feb285e09be88612571f1d83f59a924e7b8d"
+          }
+        },
+        {
+          "client_id": "342870705804-0s2o400v45837n4187k961951iqmngn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWtwuR27Pe9g_pRH7xLX6S_lG3VpwcY6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342870705804-0s2o400v45837n4187k961951iqmngn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
